@@ -1,0 +1,64 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "name": "Olive oil",
+      "price": 15.05,
+      "photo": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 2,
+      "name": "Backpack - lenovo",
+      "price": 10.95,
+      "photo": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 3,
+      "name": "Wireless keyboard",
+      "price": 7.1,
+      "photo": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 4,
+      "name": "Water bottle 4 pcs",
+      "price": 15.02,
+      "photo": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 5,
+      "name": "Cheese",
+      "price": 12.05,
+      "photo": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 6,
+      "name": "Bread",
+      "price": 9,
+      "photo": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 7,
+      "name": "Egg set(12)",
+      "price": 9,
+      "photo": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 8,
+      "name": "Ketchup",
+      "price": 3,
+      "photo": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 9,
+      "name": "Bread",
+      "price": 9,
+      "photo": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 10,
+      "name": "Bread",
+      "price": 9,
+      "photo": "https://picsum.photos/200/300"
+    }
+  ]
+}

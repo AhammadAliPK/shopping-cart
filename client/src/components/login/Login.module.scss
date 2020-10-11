@@ -1,0 +1,83 @@
+// .wrapper {
+//   display: -ms-flexbox;
+//   display: flex;
+//   -ms-flex-direction: column;
+//   flex-direction: column;
+// }
+
+.container {
+  min-height: 100vh;
+  padding: 0 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  img {
+    width: 100px;
+  }
+}
+
+.signUpForm {
+  margin: 0 auto;
+  width: 200px;
+  background-color: aliceblue;
+  border-radius: 10x 10px 1px solid red;
+}
+
+body {
+  background: #eee !important;
+}
+
+.wrapper {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+.formsignin {
+  max-width: 380px;
+  padding: 15px 35px 45px;
+  margin: 0 auto;
+  background-color: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+
+  .form_signin_heading,
+  .checkbox {
+    margin-bottom: 30px;
+  }
+
+  .checkbox {
+    font-weight: normal;
+  }
+
+  .form_control {
+    position: relative;
+    font-size: 16px;
+    height: auto;
+    padding: 10px;
+
+    &:focus {
+      z-index: 2;
+    }
+  }
+
+  input[type="text"] {
+    margin-bottom: -1px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+
+  input[type="password"] {
+    margin-bottom: 20px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+  }
+  .loginbtn {
+    display: block;
+    border: none;
+    padding: 10px;
+    background: blue;
+    color: white;
+    border-radius: 5px 5px;
+    cursor: pointer;
+  }
+}
